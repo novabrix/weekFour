@@ -9,8 +9,8 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 
 * [✅] Create a forked copy of this project.
 * [✅] Clone your OWN version of the repository (Not Gabi's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [✅] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [✅] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [✅] Push commits: git push origin `<firstName-lastName>`.
 * [✅] Submit your assignment in the student portal
 
